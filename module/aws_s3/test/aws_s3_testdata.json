@@ -1,0 +1,10 @@
+{
+    "name": "smoothstack-demo",
+    "versioning": "Enabled",
+    "tags": {
+        "deployment": "auto-terraform",
+        "env": "sandbox",
+        "region": "us-east-2"
+
+    }
+}
