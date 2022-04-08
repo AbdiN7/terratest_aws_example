@@ -1,5 +1,0 @@
-bucket_name              = "smoothstack-demo"
-tag_enviornment          = "sandbox"
-tag_deployment           = "auto-terraform"
-tag_region               = "us-east-2"
-versioning               = "Enabled"
